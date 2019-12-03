@@ -2,20 +2,25 @@
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Devops_Project/Startup.cs" Line="43" Column="24" />
-      <File FileName="Devops_Project/Properties/launchSettings.json" Line="26" Column="1" />
+      <File FileName="Devops_Project/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Devops_Project" expanded="True" selected="True">
-            <Node name="Devops_Project" expanded="True">
-              <Node name="Properties" expanded="True" />
+            <Node name="Devops_Project" expanded="True" selected="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Pages" selected="True" />
+              <Node name="Properties" expanded="True" selected="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="wwwroot" selected="True" />
+              <Node name="appsettings.json" selected="True" />
+              <Node name="Program.cs" selected="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
