@@ -40,7 +40,7 @@ namespace Devops_Project
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            app.UseHttpRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
